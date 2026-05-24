@@ -16,6 +16,6 @@ jobs:
           node-version: 22.x
       - name: Install Dependencies
         run: npm install
-      - name: Build Angular app
+      - name: Build Angular App
         run: npm run build
     
